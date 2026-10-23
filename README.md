@@ -1,4 +1,4 @@
--commerce Product Performance Analysis
+E-commerce Product Performance Analysis
 
 Project Overview
 
@@ -46,4 +46,4 @@ Future Improvements
 Markdown
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard%20screenshot.PNG)
+![Dashboard Screenshot](Dashboard%20Screenshot.PNG)
