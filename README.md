@@ -1,4 +1,4 @@
-E-commerce Product Performance Analysis
+-commerce Product Performance Analysis
 
 Project Overview
 
