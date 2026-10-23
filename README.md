@@ -41,3 +41,9 @@ Future Improvements
 * Explore additional product performance trends
 * Develop evidence-based business recommendations
 * Improve dashboard accessibility and usability
+
+
+Markdown
+
+## Dashboard Preview
+![Dashboard Screenshot](dashboard%20screenshot.PNG)
